@@ -1,0 +1,13 @@
+name: TutoCommand
+version: 0.1
+main: com.gcycloned.init.Principal
+author: cycloned
+website: www.gcycloned.com
+
+commands:
+    tutorial:
+        description: Te teleporta al tutorial del servidor.
+        usage: /tutorial
+    settutorial:
+        description: Setear el spawn del tutorial del servidor.
+        usage: /settutorial
